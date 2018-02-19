@@ -4,7 +4,7 @@
     <description>
         MVOffice il tuo ufficio in tasca
     </description>
-    <author email="info@mvitalia.com" href="http://www.mvitalia.com">MVitalia </author>
+    <author email="info@mvitalia.com" href="http://www.mvitalia.com">MVitalia</author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
