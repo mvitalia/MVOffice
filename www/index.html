@@ -53,6 +53,10 @@
                     <p><span>Vuoi anche tu questo programma? <a class="primary-text" href="#" onclick="window.open('https://office.mvclienti.com/richiesta_info.aspx', '_system');">Richiedi Info</a></span></p>
 </div><!-- End of Main Contents -->
 
+<div id="deviceready" class="blink">
+    <p class="event listening">Connecting to Device</p>
+    <p class="event received">Device is Ready</p>
+</div>
                
             </div> <!-- End of Page Content -->
             <!-- Footer -->
@@ -191,39 +195,13 @@
     <script src="js/masonry.min.js"></script>
     <script src="js/chart.min.js"></script>
     <script src="js/functions.js"></script>
-    <script src="js/tinymce/tinymce.min.js"></script>
     <script src='js/moment.min.js'></script>
-    <script src='js/fullcalendar.min.js'></script>
-    <script src='js/jquery.datetimepicker.full.min.js'></script>
-    <script>
-    tinymce.init({
-        selector: 'textarea',
-        branding: false,
-        menubar:false,
-        toolbar1: 'styleselect | bold italic | alignleft aligncenter alignright alignjustify',
-        setup: function(editor) {
-            editor.on('init', function(e) {
-
-            });
-        }
-    });
-    </script>
+    
     <script type="text/javascript" src="js/index.js"></script>
     <script type="text/javascript">
         app.initialize();
     </script>
 
-    <script src="js/funzioni_app.js"></script>
-    <script>
-    $(document).ready(function () {
-        $('#data_approfondimenti').datetimepicker({
-            format: 'd-m-Y'
-
-        });
-
-
-   });
-    </script>
 </body>
 
 </html>
