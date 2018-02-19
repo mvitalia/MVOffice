@@ -2,7 +2,7 @@
 <widget id="com.mvitalia.office" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>MVOffice</name>
     <description>
-       MVOffice il tuo ufficio in tasca
+       MV Office il tuo ufficio in tasca
     </description>
     <author email="info@mvitalia.com" href="http://mvitalia.com">
        MVitalia 
