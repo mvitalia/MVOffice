@@ -5,7 +5,7 @@
        MVOffice il tuo ufficio in tasca
     </description>
     <author email="info@mvitalia.com" href="http://mvitalia.com">
-       MVitalia
+       MVitalia 
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
