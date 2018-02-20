@@ -2311,11 +2311,10 @@ ul.faq {
     border-radius: 2px;
     background-color: #fff;
     position: absolute;
-    top: 80px;
+    top: 70px;
     left: 0;
     right: 0;
     z-index: 99;
-    border:1px solid red
 }
 .login-form h1,
 .signup-form h1 {
